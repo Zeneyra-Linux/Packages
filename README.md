@@ -16,7 +16,7 @@ All repositories feature a `-nightly` Shuriken to install the nightly version of
 | [Development](dev)  | N/A  | N/A | Collection of toolchains, compilers, runtimes and in general programming languages and IDEs for software development.    |
 | [Utilities](utils/) | N/A  | N/A | General utilities that don't belong to the other repositories.                                                           |
 | [FOSS](foss/)       | N/A  | N/A | Free Open Source Software that doesn't really fit into the other repositories and is mostly community-made.              |
-
+| [Gaming](gaming/)   | N/A  | N/A | Repository for Gaming-related software.                                                                                  |
 
 ## Package Sources
 If possible, packages and its contents should be built on an installation of Zeneyra Linux, but they can also be built with pre-compiled binaries. If the package includes only non-compiled contents, then it doesn't really matter anyway - they could also be made on Windows.  
